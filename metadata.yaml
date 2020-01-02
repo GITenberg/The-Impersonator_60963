@@ -1,11 +1,16 @@
 _repo: The-Impersonator_60963
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60963-h/images/cover.jpg
 creator:
   author:
     agent_name: Wicks, Robert
     gutenberg_agent_id: '26470'
     url: http://www.gutenberg.org/2009/agents/26470
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60963#The-Impersonator
 gutenberg_issued: '2019-12-19'
 gutenberg_type: Text
 identifiers:
